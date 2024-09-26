@@ -1,0 +1,10 @@
+streamlit
+altair
+pandas
+PyPDF2  
+reportlab
+requests
+beautifulsoup4
+lxml
+fpdf
+chardet
